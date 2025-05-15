@@ -1,0 +1,17 @@
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Business.deps.json
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Business.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Business.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Data.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Domain.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Data.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\bin\Debug\net7.0\ReportService.Domain.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.csproj.AssemblyReference.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.AssemblyInfoInputs.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.AssemblyInfo.cs
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.csproj.CoreCompileInputs.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportSe.26A5D8C9.Up2Date
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\refint\ReportService.Business.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ReportService.Business.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Business\obj\Debug\net7.0\ref\ReportService.Business.dll

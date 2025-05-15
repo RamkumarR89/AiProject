@@ -1,0 +1,17 @@
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.csproj.AssemblyReference.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.AssemblyInfoInputs.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.AssemblyInfo.cs
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.csproj.CoreCompileInputs.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\bin\Debug\net8.0\ReportService.Data.deps.json
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\bin\Debug\net8.0\ReportService.Data.runtimeconfig.json
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\bin\Debug\net8.0\ReportService.Data.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\bin\Debug\net8.0\ReportService.Data.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\bin\Debug\net8.0\ReportService.Domain.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\bin\Debug\net8.0\ReportService.Domain.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportSe.487DE6AE.Up2Date
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\refint\ReportService.Data.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ReportService.Data.genruntimeconfig.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Data\obj\Debug\net8.0\ref\ReportService.Data.dll

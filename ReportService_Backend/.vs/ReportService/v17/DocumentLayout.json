@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FC507D-1F6C-453A-81E8-765F08EF07E7}|ReportService.API\\ReportService.API.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FC507D-1F6C-453A-81E8-765F08EF07E7}|ReportService.API\\ReportService.API.csproj|solutionrelative:reportservice.api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.domain\\dtos\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|solutionrelative:reportservice.domain\\dtos\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97911F7E-ADC2-46DC-AA5A-E5EDB9C6C627}|ReportService.Business\\ReportService.Business.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97911F7E-ADC2-46DC-AA5A-E5EDB9C6C627}|ReportService.Business\\ReportService.Business.csproj|solutionrelative:reportservice.business\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C67DFC-94B3-4419-8716-7F2FC38104E7}|ReportService.Data\\ReportService.Data.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.data\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C67DFC-94B3-4419-8716-7F2FC38104E7}|ReportService.Data\\ReportService.Data.csproj|solutionrelative:reportservice.data\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97911F7E-ADC2-46DC-AA5A-E5EDB9C6C627}|ReportService.Business\\ReportService.Business.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.business\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97911F7E-ADC2-46DC-AA5A-E5EDB9C6C627}|ReportService.Business\\ReportService.Business.csproj|solutionrelative:reportservice.business\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C67DFC-94B3-4419-8716-7F2FC38104E7}|ReportService.Data\\ReportService.Data.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.data\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C67DFC-94B3-4419-8716-7F2FC38104E7}|ReportService.Data\\ReportService.Data.csproj|solutionrelative:reportservice.data\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97911F7E-ADC2-46DC-AA5A-E5EDB9C6C627}|ReportService.Business\\ReportService.Business.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.business\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97911F7E-ADC2-46DC-AA5A-E5EDB9C6C627}|ReportService.Business\\ReportService.Business.csproj|solutionrelative:reportservice.business\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C67DFC-94B3-4419-8716-7F2FC38104E7}|ReportService.Data\\ReportService.Data.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.data\\context\\reportservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C67DFC-94B3-4419-8716-7F2FC38104E7}|ReportService.Data\\ReportService.Data.csproj|solutionrelative:reportservice.data\\context\\reportservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.domain\\entities\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|solutionrelative:reportservice.domain\\entities\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.domain\\entities\\chatsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|solutionrelative:reportservice.domain\\entities\\chatsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|d:\\ram_learn\\ram backup\\reportservice_backend\\reportservice.domain\\enums\\sessionworkflowstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E84D35D-6740-4276-945A-DB74D9987942}|ReportService.Domain\\ReportService.Domain.csproj|solutionrelative:reportservice.domain\\enums\\sessionworkflowstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Data\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "ReportService.Data\\Repositories\\IChatRepository.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Data\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "ReportService.Data\\Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:24:10.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Business\\Services\\IChatService.cs",
+              "RelativeDocumentMoniker": "ReportService.Business\\Services\\IChatService.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Business\\Services\\IChatService.cs",
+              "RelativeToolTip": "ReportService.Business\\Services\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:22:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatDTOs.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\DTOs\\ChatDTOs.cs",
+              "RelativeDocumentMoniker": "ReportService.Domain\\DTOs\\ChatDTOs.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\DTOs\\ChatDTOs.cs",
+              "RelativeToolTip": "ReportService.Domain\\DTOs\\ChatDTOs.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:19:00.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\Entities\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ReportService.Domain\\Entities\\ChatMessage.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\Entities\\ChatMessage.cs",
+              "RelativeToolTip": "ReportService.Domain\\Entities\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:18:15.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.API\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ReportService.API\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.API\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ReportService.API\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:08:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Business\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "ReportService.Business\\Services\\ChatService.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Business\\Services\\ChatService.cs",
+              "RelativeToolTip": "ReportService.Business\\Services\\ChatService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAEwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:21:15.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Data\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "ReportService.Data\\Repositories\\ChatRepository.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Data\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "ReportService.Data\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:20:38.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Business\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ReportService.Business\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Business\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ReportService.Business\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:20:55.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportServiceContext.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Data\\Context\\ReportServiceContext.cs",
+              "RelativeDocumentMoniker": "ReportService.Data\\Context\\ReportServiceContext.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Data\\Context\\ReportServiceContext.cs",
+              "RelativeToolTip": "ReportService.Data\\Context\\ReportServiceContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:12:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatSession.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\Entities\\ChatSession.cs",
+              "RelativeDocumentMoniker": "ReportService.Domain\\Entities\\ChatSession.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\Entities\\ChatSession.cs",
+              "RelativeToolTip": "ReportService.Domain\\Entities\\ChatSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:17:56.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionWorkflowStep.cs",
+              "DocumentMoniker": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\Enums\\SessionWorkflowStep.cs",
+              "RelativeDocumentMoniker": "ReportService.Domain\\Enums\\SessionWorkflowStep.cs",
+              "ToolTip": "D:\\RAM_LEARN\\Ram backup\\ReportService_Backend\\ReportService.Domain\\Enums\\SessionWorkflowStep.cs",
+              "RelativeToolTip": "ReportService.Domain\\Enums\\SessionWorkflowStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:20:01.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 406,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 406,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

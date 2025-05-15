@@ -1,0 +1,11 @@
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\bin\Debug\net9.0\ReportService.Domain.deps.json
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\bin\Debug\net9.0\ReportService.Domain.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\bin\Debug\net9.0\ReportService.Domain.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ReportService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ReportService.Domain.AssemblyInfoInputs.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ReportService.Domain.AssemblyInfo.cs
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ReportService.Domain.csproj.CoreCompileInputs.cache
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ReportService.Domain.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\refint\ReportService.Domain.dll
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ReportService.Domain.pdb
+D:\RAM_LEARN\Ram backup\ReportService_Backend\ReportService.Domain\obj\Debug\net9.0\ref\ReportService.Domain.dll

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ReportService.API</name>
+    </assembly>
+    <members>
+        <member name="M:ReportService.API.Controllers.ReportsController.GetAll">
+            <summary>
+            Gets all reports
+            </summary>
+        </member>
+        <member name="M:ReportService.API.Controllers.ReportsController.GetById(System.Int32)">
+            <summary>
+            Gets a specific report by id
+            </summary>
+        </member>
+        <member name="M:ReportService.API.Controllers.ReportsController.Create(ReportService.Domain.DTOs.CreateReportDto)">
+            <summary>
+            Creates a new report
+            </summary>
+        </member>
+        <member name="M:ReportService.API.Controllers.ReportsController.Update(System.Int32,ReportService.Domain.DTOs.UpdateReportDto)">
+            <summary>
+            Updates an existing report
+            </summary>
+        </member>
+        <member name="M:ReportService.API.Controllers.ReportsController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific report
+            </summary>
+        </member>
+    </members>
+</doc>
